@@ -1,5 +1,5 @@
 # Airbnb-price-category-prediction
-Problem formulation
+# Problem formulation
 When hosts prepare to post a new advertisement about residence place on the Airbnb site is, how much should they ask for?, How much of this apartment?, etc, also for guests, they want to find a suitable place to stay at it affordable price..., So we want to build a neural network model to make predict the type of real estate and its price, our inputs here are summary for this real estate and its image and the outputs here are a type of this real estate and its price. (training dataset:- 7627 samples), (test dataset:- 7360 samples).
 
 Note:- you will find the dataset at https://www.kaggle.com/competitions/cisc-873-dm-f22-a4
